@@ -10,3 +10,6 @@ Use below command to install:   pip install pynput
 
 - Just run below command to play Dino on your eye blink and Have fun! :   python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat
 
+
+<img src="https://github.com/amitwdh/play_dino_on_eye_blink/blob/master/ezgif.com-gif-to-mp4.gif">
+
